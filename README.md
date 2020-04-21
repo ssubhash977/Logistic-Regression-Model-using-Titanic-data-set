@@ -1,0 +1,1 @@
+# Logistic-Regression-Model-using-Titanic-data-set
